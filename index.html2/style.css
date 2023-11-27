@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+    .mynavbar{
+    text-align: center;
+    margin-right: 10%
+    
+}
+    .mynavbar ul{
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        background-color:orange;
+    }
+
+    .mynavbar ul li a{
+        text-decoration: none;
+        list-style: none;
+    }
+    .pat{
+        margin-top: 20px;
+        color: blue;
+    }
+    .mynavbar ul{
+        list-style: none;
+    }
+    .infor{
+        background-color:purple;
+        border-radius: 1%;
+        margin-top: 2%;
+    }
+    #only{
+        margin-bottom: 40px;
+        background-color:purple;
+        font-weight: 600;
+        border-radius: 1%;
+    }
+    .LAST{
+        display: grid;
+        color: rgb(185, 107, 10);
+        background-color: black;
+    }
